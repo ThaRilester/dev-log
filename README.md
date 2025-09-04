@@ -10,3 +10,5 @@
 <section>
   Still working he programs, Odin project and Freecodecamp. Learning somewhat, cant even gauge it. Seems like it's going to be a lot of memorization. Wanting a job in this profession. learning boilerplates and other fundamental coding atts, but seems like this is a lot of memorization which is definitely not my strong suite.
 </section>
+<p>also using chatgbt obviously, not sure the difference between using the paragraph attribute or the section attribute. Hopefully it all clicks</p>
+<!-- TODO:rememebr to fix the awfull wording regarding memorization up above-->
