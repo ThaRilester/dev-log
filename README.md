@@ -7,3 +7,6 @@
 <p> The more I learn of programming, the more I would have loved to be the one to start a MMO game like Runescape. </p>
 <a href="https://oldschool.runescape.com/"> Click here to check it out! </a>
 </main>
+<section>
+  Still working he programs, Odin project and Freecodecamp. Learning somewhat, cant even gauge it. Seems like it's going to be a lot of memorization. Wanting a job in this profession. learning boilerplates and other fundamental coding atts, but seems like this is a lot of memorization which is definitely not my strong suite.
+</section>
