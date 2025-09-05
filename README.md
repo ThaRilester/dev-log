@@ -8,7 +8,9 @@
 <a href="https://oldschool.runescape.com/"> Click here to check it out! </a>
 </main>
 <section>
-  Still working he programs, Odin project and Freecodecamp. Learning somewhat, cant even gauge it. Seems like it's going to be a lot of memorization. Wanting a job in this profession. learning boilerplates and other fundamental coding atts, but seems like this is a lot of memorization which is definitely not my strong suite.
+  Still working he programs, Odin project and Freecodecamp. Learning somewhat, cant even gauge it. Seems like it's going to be a lot of memorization. Wanting a job in this profession. learning the boilerplate and other fundamental coding atts.
 </section>
+<section>
 <p>also using chatgbt obviously, not sure the difference between using the paragraph attribute or the section attribute. Hopefully it all clicks</p>
-<!-- TODO:rememebr to fix the awfull wording regarding memorization up above-->
+<p>got to stick with it, I think this is day 4 in total, feels discouraging everytime I take a crack at it but I've heard thats part of the process. In 5 years I want to make 200k working from home, but it still fels limiting to accept a salary and jump out of sales.</p>
+</section>
