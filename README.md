@@ -8,7 +8,7 @@
 <a href="https://oldschool.runescape.com/"> Click here to check it out! </a>
 </main>
 <section>
-  Still working he programs, Odin project and Freecodecamp. Learning somewhat, cant even gauge it. Seems like it's going to be a lot of memorization. Wanting a job in this profession. learning the boilerplate and other fundamental coding atts.
+  Still working he programs, Odin project and Freecodecamp.<em>Learning somewhat,</em> cant even gauge it. Seems like it's going to be a lot of memorization. Wanting a job in this profession. learning the boilerplate and other fundamental coding atts.
 </section>
 <section>
 <p>also using chatgbt obviously, not sure the difference between using the paragraph attribute or the section attribute. Hopefully it all clicks</p>
