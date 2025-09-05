@@ -14,3 +14,5 @@
 <p>also using chatgbt obviously, not sure the difference between using the paragraph attribute or the section attribute. Hopefully it all clicks</p>
 <p>got to stick with it, I think this is day 4 in total, feels discouraging everytime I take a crack at it but I've heard thats part of the process. In 5 years I want to make 200k working from home, but it still fels limiting to accept a salary and jump out of sales.</p>
 </section>
+<section>Still dont understand the purpose of the "section" att when it doesnt even input a psace between the paragraphs, seems like it maks more sense to just skip a line.
+<p>Currently watching the eagles and cowboys in the season kickoff, just came back from the 1 hour delay from the weather, doing a daily git check in</p></section>
