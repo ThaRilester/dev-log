@@ -16,3 +16,16 @@
 </section>
 <section>Still dont understand the purpose of the "section" att when it doesnt even input a psace between the paragraphs, seems like it maks more sense to just skip a line.
 <p> <strong>Currently watching the eagles and cowboys in the season kickoff, just came back from the 1 hour delay from the weather, doing a daily git check in</strong></p></section>
+
+<section>
+  Checking in for a dail log. Lately life is 
+  <ul>
+    <li>Wake up groggy and very tired</li>
+    <li>make my way to work, sit through bs morning meetings</li>
+    <li>sell something</li>
+    <li>"got to close got to close got to close"</li>
+    <li>sell a car, go home</li>
+    <p>2 hours minimum coding</p>
+    <p>fantasize about working from home spending time with my fam</p>
+  </ul>
+</section>
