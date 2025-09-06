@@ -25,9 +25,9 @@
     <li>sell something</li>
     <li>"got to close got to close got to close"</li>
     <li>sell a car, clock out <em>ten-fourteen hour sales days at the dealership</em>go home</li>
-    <li><strong> DONT SELL, DONT EAT</strong>
+    <li><strong>YOU DONT SELL,YOU DONT EAT</strong> neither does your family or mortgage loan
     <li>drive home</li>
-    <li>2 hours minimum coding</li>
+    <li>2 hours minimum coding, looking for a better way</li>
     <p>fantasize about working from home spending time with my fam</p>
   </ul>
 </section>
