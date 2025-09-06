@@ -24,8 +24,10 @@
     <li>make my way to work, sit through bs morning meetings</li>
     <li>sell something</li>
     <li>"got to close got to close got to close"</li>
-    <li>sell a car, go home</li>
-    <p>2 hours minimum coding</p>
+    <li>sell a car, clock out <em>ten-fourteen hour sales days at the dealership</em>go home</li>
+    <li><strong> DONT SELL, DONT EAT</strong>
+    <li>drive home</li>
+    <li>2 hours minimum coding</li>
     <p>fantasize about working from home spending time with my fam</p>
   </ul>
 </section>
