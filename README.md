@@ -30,7 +30,8 @@
     <li>2 hours minimum coding, looking for a better way</li>
     
 <p> fantasize about working from home spending time with my fam</p>
-
+</ul?
 <p>got to locked on a odin project lesson for too long to do anything on fcc or put somehting on git so heres for the ext day at 1am</p>
-  </ul>
+  <img src=bluefaces.jpg height=310 width=310>
+  <p>dont know if the pic shows but hopefully I get some blue faces in my life sooner than later lol</p>p>
 </section>
