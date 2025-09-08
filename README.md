@@ -33,5 +33,7 @@
 </ul?
 <p>got to locked on a odin project lesson for too long to do anything on fcc or put somehting on git so heres for the ext day at 1am</p>
   <img src=bluefaces.jpg height=310 width=310>
-  <p>dont know if the pic shows but hopefully I get some blue faces in my life sooner than later lol</p>p>
+  <p>dont know if the pic shows but hopefully I get some blue faces in my life sooner than later lol</p>
+
+  update:image doesnt show Ill fix it later good night 9/8/2025 1:04am
 </section>
