@@ -37,3 +37,13 @@
 
   update:image doesnt show Ill fix it later good night 9/8/2025 1:04am
 </section>
+
+<h1> it is 9/30/2025, totally failed at adding to dev log every day but I've been steady making way through The Odin Project.</h1>
+<style>
+  git{
+    color:blue;
+    background-color:red;
+  }
+<git> Today was the first day of using css. Total mountain to climb but got it done nonetheless. Externally adding css seems like the cleanest way to do it but I may just add some to this paragraph internally to make it less boring <git>
+
+<p>Time to see if that worked lol goodnight whether it did or not. ps I made the background red and the text blue </p>
